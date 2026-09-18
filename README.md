@@ -4,6 +4,16 @@ Embedded Systems & Robotics Control Engineer specializing in robotics control, e
 
 [View or download my CV](./Park_Gyu_Hyeon_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/gyu-hyeon-park-81382a403/) · [GitHub](https://github.com/rbgusrns) · [Email](mailto:rbgusrns74@gmail.com)
 
+## CV Preview
+
+Click any page to open the original PDF.
+
+[![CV page 1](./preview/page-1.png)](./Park_Gyu_Hyeon_CV.pdf)
+
+[![CV page 2](./preview/page-2.png)](./Park_Gyu_Hyeon_CV.pdf)
+
+[![CV page 3](./preview/page-3.png)](./Park_Gyu_Hyeon_CV.pdf)
+
 ## About Me
 
 - B.S. candidate in Electrical and Electronic Engineering at Dankook University
@@ -39,7 +49,11 @@ The CV includes all 16 public repositories on my GitHub profile, along with the 
 ```text
 .
 |-- README.md
-`-- Park_Gyu_Hyeon_CV.pdf
+|-- Park_Gyu_Hyeon_CV.pdf
+`-- preview/
+    |-- page-1.png
+    |-- page-2.png
+    `-- page-3.png
 ```
 
 ## Contact
