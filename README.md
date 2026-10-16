@@ -40,7 +40,7 @@ Click any page to open the original PDF.
 | [Multi-Robot Disaster Search and Rescue](https://github.com/rbgusrns/damgc_robot) | ROS 2 leader/follower robots with RGB-D localization and embedded motion control |
 | [Microcontroller Application Contest](https://github.com/rbgusrns/2025-COSS-MCU-Contest) | Team lead; 1st place and Minister of Education Award |
 | [Gyeonggi Autonomous Driving Challenge](https://github.com/rbgusrns/Gyeonggi-AD-Challenge-2026) | Lane perception, BEV, traffic-light recognition, and LiDAR obstacle avoidance |
-| [Wearable-Controlled Collaborative Robot Arm](https://github.com/rbgusrns/Waerable-Robot_ARM) | Team lead; STM32G474, FreeRTOS, and Dynamixel motor control |
+| [Wearable-Controlled Collaborative Robot Arm](https://github.com/rbgusrns/Waerable-Robot_ARM) | Team lead; STM32G474, UART, and Dynamixel motor control |
 
 The CV includes all 16 public repositories on my GitHub profile, along with the JOG MATE assistive jogging robot project.
 
